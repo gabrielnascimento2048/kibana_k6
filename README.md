@@ -1,4 +1,4 @@
-# kibana_k6
+# K6 with Elasticsearch and Kibana via docker
 ![cicrclo alligator](https://github.com/gabrielnascimento2048/kibana_k6/assets/93552647/7fd68df9-5076-4c8f-b028-c43416233162)
 
 For more details: This article
